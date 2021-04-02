@@ -9,4 +9,3 @@ services:
       - ./app:/usr/src/app
     ports:
       - 5000:3000
-

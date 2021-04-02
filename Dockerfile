@@ -7,4 +7,3 @@ RUN apk update && \
     apk add git && \
     npm install -g npm && \
     npm install -g @vue/cli nuxt create-nuxt-app
-
